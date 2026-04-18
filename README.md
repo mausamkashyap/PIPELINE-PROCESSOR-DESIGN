@@ -2,11 +2,13 @@
 
 
 **COMPANY : CODTECH IT SOLUTIONS**
+
 **NAME : MAUSAM KUMARI**
 
 **INTERN ID :  CTIS6792**
 
 **DURATION : 8 WEEKS**
+
 **MENTOR : NEELA SANTOSH**
 
 **Design and Implementation of a 4-Stage Pipelined Processor**
